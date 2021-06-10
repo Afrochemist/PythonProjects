@@ -1,2 +1,4 @@
 # PythonProjects
-This repository contains projects regarding python
+This repository contains projects in python
+
+- Simple Calculator
